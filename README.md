@@ -1,4 +1,4 @@
-Requerimientos 
+Entorno virtual en Python
 
 -Para instalar las dependencias se debe ejecutar $pip install -r requirements.txt
 
