@@ -4,6 +4,8 @@ Entorno virtual en Python
 
 -Para ejecutar el script que interactua con la base de datos se debe colocar este codigo $python scriptdbb.py
 
+Instalar MongoDbShell 
+
 La coleccion con la que se trabaja es Usuario de una plataforma web, el cual almacena los siguentes datos 
 
 Nombre
