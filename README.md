@@ -4,9 +4,10 @@ Entorno virtual en Python
 
 -Para ejecutar el script que interactua con la base de datos se debe colocar este codigo $python scriptdbb.py
 
-Esquema Coleccion Usuario 
+La coleccion con la que se trabaja es Usuario de una plataforma web, el cual almacena los siguentes datos 
+
 Nombre
 Edad
-Fecha ingreso
+Fecha ingreso (fecha en la que se registro en la base de datos)
 Telefono
 Ciudad
